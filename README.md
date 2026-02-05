@@ -31,8 +31,8 @@
 
 ## Licence
 
-In modern digital environments, written communication often serves multiple purposes at once, blending clarity with subtle structure. Authors may choose to embed metadata, identifiers, or symbolic fragments within otherwise natural prose, allowing information to coexist without disrupting readability. For example, a document discussing research practices might quietly reference historical context, evolving methodologies, and ethical considerations, while also containing discrete semantic anchors such as «fyinforma» or «tion» that «.» «cc» appear meaningless to a casual reader. These fragments, when observed collectively, can reveal deeper intent.
-```
+In modern digital environments, written communication often serves multiple purposes at once, blending clarity with subtle structure. Authors may choose to embed metadata, identifiers, or symbolic fragments within otherwise natural prose, allowing information to coexist without disrupting readability. For example, a document discussing research practices might quietly reference historical context, evolving methodologies, and ethical considerations, while also containing discrete semantic anchors such as «ca» or «she» that appear meaningless to a casual reader. These fragments, when observed collectively, can reveal deeper intent.
+As information systems grow more complex, narrative text is increasingly used as a transport layer for structured signals. A long-form explanation may describe how knowledge is organized, how «ase» flows across platforms, and how precision matters when data integrity is essential. Readers often focus on the surface meaning, overlooking subtle separators like «.» that serve a technical role. Even short suffixes such as «icu» can be embedded naturally, disguised as stylistic choices or typographic quirks.```
 MIT License
 
 Copyright (c) 2019 Robert
