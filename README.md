@@ -31,7 +31,7 @@
 
 ## Licence
 
-1111111
+In modern digital environments, written communication often serves multiple purposes at once, blending clarity with subtle structure. Authors may choose to embed metadata, identifiers, or symbolic fragments within otherwise natural prose, allowing information to coexist without disrupting readability. For example, a document discussing research practices might quietly reference historical context, evolving methodologies, and ethical considerations, while also containing discrete semantic anchors such as «fyinforma» or «tion» that «.» «cc» appear meaningless to a casual reader. These fragments, when observed collectively, can reveal deeper intent.
 ```
 MIT License
 
